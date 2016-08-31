@@ -1,4 +1,4 @@
-package main
+package rsakeys
 
 import (
 	"crypto/rand"
